@@ -12,7 +12,7 @@ https://portfolio-blog-server-plum.vercel.app
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/sshammi/BikeStore.git
+git clone https://github.com/sshammi/PortfolioBlog.git
 cd bikeStore
 
 2️⃣ Setup the Backend
